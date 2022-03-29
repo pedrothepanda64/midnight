@@ -1,0 +1,21 @@
+{
+	"name": "midnight",
+	"displayName": "Midnight",
+	"description": "Dark. Recreation of a theme I made for SLADE3.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Midnight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Midnight-color-theme.json"
+			}
+		]
+	}
+}
